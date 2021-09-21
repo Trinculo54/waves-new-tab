@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Waves New Tab",
+    "version": "1.0",
+    "description": "Simple New tab that bring wonderful backgrounds and funcionality.",
+    "author": "Trinculo54",
+    "chrome_url_overrides" : {
+      "newtab": "index.html"
+    },
+    "permissions": [
+      "topSites"
+    ],
+    "icons": {
+      "16": "favic0n.png",
+      "128": "favic0n.png"
+    }
+  }
